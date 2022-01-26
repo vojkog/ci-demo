@@ -7,7 +7,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 class CoverageDemoTest {
 
 
-    @Test
+    // @Test
     void wheLT5_ThenDouble() {
         CoverageDemo coverageDemo=new CoverageDemo();
         int actual=coverageDemo.doubleIfLessThan5(4);
