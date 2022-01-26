@@ -33,7 +33,6 @@ public class CoverageDemo {
             System.out.println("Less than than 5.");
         }
 
-
         if(param < 5 || param==5 ) {
             System.out.println("Less than 5. Doubling.");
             input=2*input;
